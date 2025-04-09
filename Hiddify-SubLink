@@ -129,20 +129,20 @@
             "tag": "✅ Selector",
             "outbounds": [
                 "Best Ping 💥",
-                "AB_841-1 : 443",
-                "AB_841-2 : 443",
-                "AB_841-3 : 443",
-                "AB_841-4 : 443"
+                "AB_841-1",
+                "AB_841-2",
+                "AB_841-3",
+                "AB_841-4"
             ]
         },
         {
             "type": "urltest",
             "tag": "Best Ping 💥",
             "outbounds": [
-                "AB_841-1 : 443",
-                "AB_841-2 : 443",
-                "AB_841-3 : 443",
-                "AB_841-4 : 443"
+                "AB_841-1",
+                "AB_841-2",
+                "AB_841-3",
+                "AB_841-4"
             ],
             "url": "https://www.gstatic.com/generate_204",
             "interval": "30s"
@@ -185,7 +185,7 @@
                 "path": "/",
                 "type": "ws"
             },
-            "tag": "AB_841-1 : 443",
+            "tag": "AB_841-1",
             "tls_fragment": {
                 "enabled": true,
                 "size": "100-200",
@@ -217,7 +217,7 @@
                 "path": "/",
                 "type": "ws"
             },
-            "tag": "AB_841-2 : 443",
+            "tag": "AB_841-2",
             "tls_fragment": {
                 "enabled": true,
                 "size": "100-200",
@@ -249,7 +249,7 @@
                 "path": "/",
                 "type": "ws"
             },
-            "tag": "AB_841-3 : 443",
+            "tag": "AB_841-3",
             "tls_fragment": {
                 "enabled": true,
                 "size": "100-200",
@@ -281,7 +281,7 @@
                 "path": "/",
                 "type": "ws"
             },
-            "tag": "AB_841-4 : 443",
+            "tag": "AB_841-4",
             "tls_fragment": {
                 "enabled": true,
                 "size": "100-200",
